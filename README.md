@@ -1,1 +1,1 @@
-# Predictive-Modelling
+This project involves predictive modeling using two datasets. The first part focuses on Linear Regression to predict CPU usage (usr) from system attributes, covering EDA, null-value treatment, and model evaluation. The second part employs Logistic Regression, LDA, and CART to predict contraceptive method usage based on demographic data, including encoding, model comparison, and performance metrics. Key steps include data cleaning, feature engineering, and deriving actionable insights.
